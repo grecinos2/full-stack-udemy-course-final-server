@@ -1,7 +1,7 @@
 # full-stack-udemy-course-final-server
-This repository contains the backend (server) files for a course I am taking on Udemy - Full Stack Web Development
-The client side repository name is: full-stack-udemy-course-final-client   
-
+This repository contains the backend (server) files for a course I am taking on Udemy - Full Stack Web Development  
+The client side repository name is: full-stack-udemy-course-final-client  
+  
 (06-03-2025)
 
 The backend requires a MySql database  
